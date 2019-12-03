@@ -1,0 +1,38 @@
+body {
+	background-color: rgb(246, 246, 246);
+	font-family: 'Segoe UI', sans-serif;
+}
+
+.cover {
+	text-align: center;
+}
+
+.title-tribute-person {
+	font-size: 2.5em;
+	margin: 0.5em;
+}
+
+.description-tribute-person {
+	font-size: 1.5em;
+}
+
+.image-tribute-person {
+	display: block;
+	margin: auto;
+	width: 40%;
+	padding: 1rem;
+}
+
+.subtitle-tribute-person {
+	font-size: 1.4em;
+}
+
+.timeline {
+	display: block;
+	margin: auto;
+	width: 50%;
+}
+
+.timeline-list {
+	font-size: 1.2em;
+}
