@@ -8,8 +8,9 @@ body {
 }
 
 .title-tribute-person {
-	font-size: 2.5em;
+	font-size: 3em;
 	margin: 0.5em;
+	font-weight: 300;
 }
 
 .description-tribute-person {
@@ -35,4 +36,13 @@ body {
 
 .timeline-list {
 	font-size: 1.2em;
+}
+
+.timeline-list > li {
+	margin: 2rem 0rem;
+}
+
+.timeline-list b {
+	color: #414141;
+	font-weight: 600;
 }
