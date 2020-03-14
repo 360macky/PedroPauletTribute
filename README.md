@@ -1,5 +1,6 @@
 <h1 align="center">👨‍🔬 Pedro Paulet Tribute Page 🎨</h1>
 <p align="center">A responsive tribute webpage for Pedro Paulet</p>
+<p align="center"><a href="https://360macky.github.io/PedroPauletTribute/" target="_blank">🌎 Go to the page 🚀</a></p>
 
 ![Build with HTML5](https://img.shields.io/static/v1?label=Made%20with&message=HTML5&color=red) ![Designed with CSS3](https://img.shields.io/static/v1?label=Designed%20with&message=CSS3&color=blue) ![Responsive Web Design](https://img.shields.io/static/v1?label=Responsive%20Web%20Design&message=freeCodeCamp&color=green)
 
